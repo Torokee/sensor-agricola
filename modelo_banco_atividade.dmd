@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="modelo_banco_atividade" id="1E6478EC-66A1-F6B0-8F24-50EC00D09B97" version="3.5">
+<createdBy>thiagogonzaga</createdBy>
+<createdTime>2025-04-18 21:19:24 UTC</createdTime>
+<ownerDesignName>modelo_banco_atividade</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>1E6478EC-66A1-F6B0-8F24-50EC00D09B97</designId>
+</OSDM_Design>
